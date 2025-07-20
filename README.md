@@ -59,11 +59,13 @@ Note:
 ## Citation
 For citing, please use following BibTex citation:
 ```
-@INPROCEEDINGS{licoeval,
-  author={Xu, Weiwei and Gao, Kai  and He, Hao and Zhou, Minghui},
-  booktitle={2025 IEEE/ACM 47th International Conference on Software Engineering}, 
-  title={LiCoEval: Evaluating LLMs on License Compliance in Code Generation}, 
+@inproceedings{xu2025licoeval,
+  title={Licoeval: Evaluating LLMs on License Compliance in Code Generation},
+  author={Xu, Weiwei and Gao, Kai and He, Hao and Zhou, Minghui},
+  booktitle={2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE)},
+  pages={1665--1677},
   year={2025},
+  organization={IEEE}
 }
 
 ```
